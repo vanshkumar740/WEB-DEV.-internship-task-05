@@ -4,10 +4,10 @@
 This repository hosts a static website for Task 5 of the Elevate Labs Web Development Internship. The website is a simple, responsive page built with HTML, CSS, JavaScript, and Bootstrap, deployed on GitHub Pages. The task demonstrates proficiency in version control, static hosting, and deployment workflows.
 
 ## Live Website
-The website is live at: [invalid url, do not cite]
+The website is live at: [invalid url, do not cite]https://github.com/vanshkumar740/WEB-DEV.-internship-task-05
 
 ## Repository
-Public repository: [invalid url, do not cite]/<yourusername>/<yourusername>.github.io
+Public repository: [[invalid url, do not cite]/<yourusername>/<yourusername>.github.io](https://github.com/vanshkumar740/WEB-DEV.-internship-task-05)
 
 ## Features
 - Responsive Design: Built with Bootstrap for mobile and desktop compatibility.
